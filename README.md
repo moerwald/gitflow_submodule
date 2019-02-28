@@ -5,3 +5,4 @@ I need to test how git flow works with submodules. Therefore I'll this repo as s
 2nd change
 3rd change
 4th change
+5th change
